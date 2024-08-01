@@ -1,0 +1,4 @@
+451,arroz,sabemas,1500,10,prov1:El Rincon SA:Panama
+452,leche,Dos Pinos,2000,20,prov2:Dos Pinos RL:Costa Rica
+453,azucar,Azucarera,800,5,prov3:Caneritos:Ecuador
+454,gelatina,Royal,450,35,prov4:Helato SA:Estados Unidos
